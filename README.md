@@ -1,6 +1,9 @@
 # Aaliyah Tribute Page
  
-For anyone who knows about the late singer and actress, Aaliyah, this is a tribue page about her and her story. This is based on her music and acting career. 
+a basic tribute page for the late singer and actress, Aaliyah, who was tragically taken from us in an airplane crash in 2001.
+
+## Contributors
+[@xoshly](https://twitter.com/xoshly)
 
 
 
